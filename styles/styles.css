@@ -1,0 +1,17 @@
+  * {
+     box-sizing: border-box;
+  }
+
+  body {
+    color: green;
+  }
+
+  .front {
+    color: red;
+  }
+  img {
+    width: 75%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: green;
+  }
